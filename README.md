@@ -14,7 +14,7 @@ At this point we have 22,940,737 variants.
 
 ## (6) Filter by depth
 
-This step is extensively explained in [depth_filtering.md](https://github.com/lorenalorenzo/selection_scan_lynx/blob/main/Filtering/depth/depth_filtering.md)
+This step is extensively explained in [depth_filtering.md](https://github.com/lorenalorenzo/VCF_filtering/blob/main/depth_filtering.md)
 
 Basically we are going to filter maximum and minimum depth in different ways. For maximum we eliminate those variants where the maximum is reached (calculated by species) and for minimum we eliminate those genotypes where the minimum is not reached.
 
