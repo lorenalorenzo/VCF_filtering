@@ -1,4 +1,4 @@
-# Title: Calculating per sp. depth and Applying depth filter to VCF
+# Calculating per sp. depth and applying depth filter to VCF
 
 ## Author: Lorena Lorenzo Fernández
 
